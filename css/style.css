@@ -1,0 +1,8 @@
+svg{
+   align-items: center;
+   display: flexbox;
+   padding-top: 100px;
+}
+.edrpo:hover{
+    fill: red;
+}
